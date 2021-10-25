@@ -9,6 +9,6 @@ The Darknet was cloned from this repository : https://github.com/AlexeyAB/darkne
 ![image](https://user-images.githubusercontent.com/54478282/138784909-23cfdcc9-05ee-4b8b-aafb-999c3305dc33.png)
 
 
-Refrences:                 
+Refrences:             
 https://www.youtube.com/watch?v=mmj3nxGT2YQ&t=32s
 https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg?usp=sharing
