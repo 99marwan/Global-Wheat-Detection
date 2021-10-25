@@ -1,5 +1,5 @@
 # Global-Wheat-Detection
-It's a kaggle Competiotion its goal is to detect wheat in a photo, draw bounding boxes with probabilities.
+It's a kaggle Competiotion its goal is to detect wheat in a photo, draw bounding boxes with probabilities./n
 https://www.kaggle.com/c/global-wheat-detection/overview
 Our team used Darknet framework with yolo v4 model to detect objects, and Cuda.
 The Darknet was cloned from this repository : https://github.com/AlexeyAB/darknet
